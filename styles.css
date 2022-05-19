@@ -1,0 +1,89 @@
+body {
+    background-color: #E6E6FA; 
+}
+
+h1 {
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+}
+h2 {
+    font-family: 'Karla', sans-serif;
+    text-align: center;
+}
+.moon {
+    display:block;
+    width: 50%;
+    height: 50%;
+    border: 1px solid black;
+}
+.aboutme {
+    border: 1px solid black;
+	display: flex;
+    justify-content: space-between;
+    padding: 6px;
+    background-color: white;
+}
+
+.menu {
+    background-color: white;
+    font-family: 'Karla', sans-serif;
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+}
+
+.posts {
+    background-color:white;
+    border: 1px solid black;
+    padding: 50px;
+    display:block;
+    text-align: center;
+    justify-content: center;
+}
+.vogue {
+    width: 50%;
+    height: 50%;
+}
+.tour {
+    width: 50%;
+    height: 50%;
+}
+.window {
+    width:50%;
+    height:50%;
+}
+.outside {
+    width:50%;
+    height:50%;
+}
+.profile {
+    margin: 150px;
+}
+.posts {
+    margin:50px;
+
+}
+
+img {
+    border: 1px solid black;
+    margin: 10px;
+}
+
+.palette {
+    height: 50%;
+    width: 50%;
+}
+.htdl {
+    height:50%;
+    width: 50%;
+}
+.official {
+    height:50%;
+    width: 50%;
+}
+    
+
+.kdrama {
+    display: flex;
+    justify-content: space-around;
+}
